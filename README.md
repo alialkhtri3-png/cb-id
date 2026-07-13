@@ -42,4 +42,10 @@ This decentralized identity is published via **GitHub Pages**
 and is controlled by the GitHub account linked above,  
 which corresponds to the wallet address declared in the DID.
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-01-06_## Architecture
+
+- DID Layer
+- Verifiable Credentials
+- Credential Binding (CB-ID)
+- Onchain Identity Verification
+
